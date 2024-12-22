@@ -1,0 +1,19 @@
+
+
+Version:	3.50
+CmdLine:	D:\Study and work areas\Program Project gather\JAVA Program\JAVA-Project\期末编程题\out\binary\Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Study and work areas\Program Project gather\JAVA Program\JAVA-Project\期末编程题\out\binary\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = D:\Java\jdk-22
+JRE paths:	D:\Java\jdk-22\bin
+Check launcher:	D:\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Launcher:	D:\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "D:\Study and work areas\Program Project gather\JAVA Program\JAVA-Project\期末编程题\out\binary\Calculator.exe"
+Args length:	116/32768 chars
+Exit code:	0
